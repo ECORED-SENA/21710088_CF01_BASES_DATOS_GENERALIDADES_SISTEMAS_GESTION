@@ -273,14 +273,96 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Clave foránea',
+      significado:
+        'Atributo que establece una relación entre dos tablas garantizando la integridad referencial; la clave foránea en una tabla es clave primaria en otra.',
+    },
+    {
+      termino: 'Clave primaria',
+      significado:
+        'Atributo que identifica de manera única cada registro dentro de una tabla.',
+    },
+    {
+      termino: 'Integridad de datos',
+      significado:
+        'Condición mediante la cual la información almacenada es correcta, coherente y confiable.',
+    },
+    {
+      termino: 'JSON (JavaScript Object Notation)',
+      significado:
+        'Estándar basado en texto plano estructurado, muy utilizado para el intercambio de datos entre sistemas de información.',
+    },
+    {
+      termino: 'Parsing',
+      significado:
+        'Proceso de convertir una cadena de datos como texto plano, JSON, XML o CSV en una estructura organizada en tablas optimizada para el GSBD.',
+    },
+    {
+      termino: 'Propiedades ACID',
+      significado:
+        'Características que garantizan la fiabilidad, seguridad e integridad de las bases de datos, basadas en atomicidad, consistencia, aislamiento y durabilidad.',
+    },
+    {
+      termino: 'Registros huérfanos',
+      significado:
+        'Datos, generalmente claves foráneas, cuyo registro relacionado en la tabla padre ha sido eliminado, quedando sin integridad referencial.',
+    },
+    {
+      termino: 'SGBD',
+      significado:
+        'Software especializado que administra, organiza, consulta y protege los datos en una base de datos.',
+    },
+    {
+      termino: 'Sintaxis',
+      significado:
+        'Gramática o reglas de tipado que definen la manera de escribir un lenguaje de programación, consultas o comandos.',
+    },
+    {
+      termino: 'XML (Extensible Markup Language)',
+      significado:
+        'Estándar que define reglas para estructurar, almacenar y transportar datos.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Amazon Web Services. (2025). Amazon RDS and Aurora documentation.',
+      link: 'https://docs.aws.amazon.com/rds/',
+    },
+    {
+      referencia:
+        'Coronel, C., y Morris, S. (2023). Database systems: Design, implementation, and management (14.ª ed.). Cengage Learning.',
       link: '',
+    },
+    {
+      referencia:
+        'Elmasri, R., y Navathe, S. (2007). Fundamentos de sistemas de bases de datos (5.ª ed.). Pearson Educación.',
+      link:
+        'https://archive.org/download/fundamentosdesistemasdebasesdedatos/Fundamentos-de-Sistemas-de-Bases-de-Datos.pdf',
+    },
+    {
+      referencia:
+        'Google. (2026). El poder de los datos: Del caos al activo estratégico [Infografía]. NotebookLM.',
+      link: '',
+    },
+    {
+      referencia:
+        'Google. (2026). Optimización de bases de datos: Claves para el rendimiento y la eficiencia [Infografía]. NotebookLM.',
+      link: '',
+    },
+    {
+      referencia:
+        'Microsoft. (2026). SQL Server technical documentation. Microsoft Learn.',
+      link:
+        'https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver17',
+    },
+    {
+      referencia: 'MongoDB Inc. (2026). MongoDB documentation.',
+      link: 'https://www.mongodb.com/docs/',
+    },
+    {
+      referencia: 'SQLServerTutorial.net. (2026). SQL Server tutorial.',
+      link: 'https://www.sqlservertutorial.net/',
     },
   ],
   creditos: [
