@@ -7,7 +7,7 @@
         span 2
       h1 Bases de datos y sistemas de información
 
-    p.mb-5 Comprender las bases de datos implica entender que no existen de manera aislada. Se integran dentro de los sistemas de información, definidos como conjuntos organizados de elementos que permiten #[b recopilar, almacenar, procesar y distribuir información] en una organización. Estos sistemas incluyen hardware, software, procedimientos, personas y datos.
+    p.mb-5 Comprender las bases de datos implica entender que no existen de manera aislada. Se integran dentro de los sistemas de información, definidos como conjuntos organizados de elementos que permiten #[b recopilar, almacenar, procesar y distribuir información] en una organización. Estos sistemas incluyen <i>hardware</i>, <i>software</i>, procedimientos, personas y datos.
 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in")
       .bloque-texto-g__img(

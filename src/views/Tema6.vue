@@ -32,7 +32,7 @@
                   figure.mb-4(data-aos="fade-right")
                     img(src='@/assets/curso/tema6/2.svg', alt="" style="max-width: 90px").m-auto
                 h4.text-center Unicidad
-                p.mb-0 Cada valor debe ser único dentro de la tabla.
+                p.mb-0.text-center Cada valor debe ser único dentro de la tabla.
           .col-xl-3.col-md-9(data-aos="zoom-in").espacio-sm
             .tarjeta_tema1-1.h-100
               .row.justify-content-center.mb-3
@@ -40,7 +40,7 @@
                   figure.mb-4(data-aos="zoom-in")
                     img(src='@/assets/curso/tema6/3.svg', alt="" style="max-width: 90px").m-auto
                 h4.text-center No duplicidad
-                p.mb-0 No puede repetirse en diferentes registros.
+                p.mb-0.text-center No puede repetirse en diferentes registros.
           .col-xl-3.col-md-9(data-aos="zoom-in").espacio-sm
             .tarjeta_tema1-1.h-100
               .row.justify-content-center.mb-3
@@ -48,7 +48,7 @@
                   figure.mb-4(data-aos="fade-left")
                     img(src='@/assets/curso/tema6/4.svg', alt="" style="max-width: 90px").m-auto
                 h4.text-center No nulidad
-                p.mb-0 No admite valores nulos.
+                p.mb-0.text-center No admite valores nulos.
           .col-xl-3.col-md-9(data-aos="zoom-in").espacio-sm
             .tarjeta_tema1-1.h-100
               .row.justify-content-center.mb-3
@@ -56,7 +56,7 @@
                   figure.mb-4(data-aos="fade-left")
                     img(src='@/assets/curso/tema6/5.svg', alt="" style="max-width: 90px").m-auto
                 h4.text-center Identificación estable
-                p.mb-0 Debe representar una identificación permanente de la entidad.
+                p.mb-0.text-center Debe representar una identificación permanente de la entidad.
 
         p.mb-5 Por ejemplo, en una tabla de estudiantes, el número de documento puede funcionar como clave primaria, ya que identifica a cada persona sin ambigüedad y permite diferenciar un registro de otro dentro del sistema. Cuando estas condiciones no se cumplen, se presentan problemas de integridad como los siguientes: 
 
@@ -193,7 +193,7 @@
               figure
                 img(src='@/assets/curso/tema6/8.svg', alt="" style="max-width: 100px").m-auto
           h3.text-center Rangos permitidos
-          p.mb-0 Limitan los valores dentro de intervalos definidos.
+          p.mb-0.text-center Limitan los valores dentro de intervalos definidos.
       .col-lg-3.col-md-9(data-aos="zoom-in").espacio-sm
         .tarjeta--boton.p-5.h-100
           .row.justify-content-center.mb-3
@@ -201,7 +201,7 @@
               figure
                 img(src='@/assets/curso/tema6/9.svg', alt="" style="max-width: 100px").m-auto
           h3.text-center Formatos específicos
-          p.mb-0 Exigen que los datos cumplan una estructura determinada.
+          p.mb-0.text-center Exigen que los datos cumplan una estructura determinada.
       .col-lg-3.col-md-9(data-aos="zoom-in").espacio-sm
         .tarjeta--boton.p-5.h-100
           .row.justify-content-center.mb-3
@@ -209,7 +209,7 @@
               figure
                 img(src='@/assets/curso/tema6/10.svg', alt="" style="max-width: 100px").m-auto
           h3.text-center Valores obligatorios
-          p.mb-0 Impiden que ciertos campos queden vacíos.
+          p.mb-0.text-center Impiden que ciertos campos queden vacíos.
       .col-lg-3.col-md-9(data-aos="zoom-in").espacio-sm
         .tarjeta--boton.p-5.h-100
           .row.justify-content-center.mb-3
@@ -217,7 +217,7 @@
               figure
                 img(src='@/assets/curso/tema6/11.svg', alt="" style="max-width: 100px").m-auto
           h3.text-center Restricciones de dominio
-          p.mb-0 Definen conjuntos específicos de valores aceptados.
+          p.mb-0.text-center Definen conjuntos específicos de valores aceptados.
     
     p.mb-0 #[b Por ejemplo], un campo “Fecha de nacimiento” no debe admitir fechas futuras, y un campo “Correo electrónico” debe ajustarse a una estructura válida. Estas reglas previenen errores, mejoran la calidad de los datos y reducen el riesgo operativo dentro de la organización.
 

@@ -32,7 +32,7 @@
                   figure.mb-4(data-aos="fade-right")
                     img(src='@/assets/curso/tema5/2.svg', alt="" style="max-width: 90px").m-auto
                 h4.text-center Lectura
-                p.mb-0 Permite consultar información sin modificarla.
+                p.mb-0.text-center Permite consultar información sin modificarla.
           .col-xl-3.col-md-9(data-aos="zoom-in").espacio-sm
             .tarjeta_tema1-1.h-100
               .row.justify-content-center.mb-3
@@ -40,7 +40,7 @@
                   figure.mb-4(data-aos="zoom-in")
                     img(src='@/assets/curso/tema5/3.svg', alt="" style="max-width: 90px").m-auto
                 h4.text-center Escritura
-                p.mb-0 Autoriza agregar o actualizar datos.
+                p.mb-0.text-center Autoriza agregar o actualizar datos.
           .col-xl-3.col-md-9(data-aos="zoom-in").espacio-sm
             .tarjeta_tema1-1.h-100
               .row.justify-content-center.mb-3
@@ -48,7 +48,7 @@
                   figure.mb-4(data-aos="fade-left")
                     img(src='@/assets/curso/tema5/4.svg', alt="" style="max-width: 90px").m-auto
                 h4.text-center Ejecución
-                p.mb-0 Permite realizar operaciones específicas o ejecutar procedimientos almacenados.
+                p.mb-0.text-center Permite realizar operaciones específicas o ejecutar procedimientos almacenados.
           .col-xl-3.col-md-9(data-aos="zoom-in").espacio-sm
             .tarjeta_tema1-1.h-100
               .row.justify-content-center.mb-3
@@ -56,7 +56,7 @@
                   figure.mb-4(data-aos="fade-left")
                     img(src='@/assets/curso/tema5/5.svg', alt="" style="max-width: 90px").m-auto
                 h4.text-center Administración
-                p.mb-0 Otorga control total sobre la estructura y configuración del sistema.
+                p.mb-0.text-center Otorga control total sobre la estructura y configuración del sistema.
 
         p.mb-0 Los roles agrupan estos permisos y se asignan según las responsabilidades de cada usuario. Esta organización evita que se realicen operaciones no autorizadas y disminuye el riesgo de errores. Una práctica recomendada es aplicar el #[b principio de mínimo privilegio], según el cual cada usuario debe contar únicamente con los permisos estrictamente necesarios para cumplir sus funciones.
 

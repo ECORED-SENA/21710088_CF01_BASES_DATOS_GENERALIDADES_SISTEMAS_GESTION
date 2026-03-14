@@ -32,20 +32,20 @@
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/tema7/4.svg' style="max-width: 90px").m-auto
-        h4.mb-3.estilo-text Capacidad del #[i hardware]
-        p.mb-0 Procesador, memoria y almacenamiento impactan directamente en la velocidad de operación.
+        h4.mb-3.estilo-text Capacidad del hardware
+        p.mb-0.text-center Procesador, memoria y almacenamiento impactan directamente en la velocidad de operación.
       .tarjeta.color-acento-botones.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/tema7/5.svg' style="max-width: 90px").m-auto
         h4.mb-3.estilo-text Concurrencia
-        p.mb-0 El manejo adecuado de accesos simultáneos evita bloqueos y disminución del desempeño.
+        p.mb-0.text-center El manejo adecuado de accesos simultáneos evita bloqueos y disminución del desempeño.
       .tarjeta.color-acento-botones.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/tema7/6.svg' style="max-width: 90px").m-auto
         h4.mb-3.estilo-text Volumen de datos
-        p.mb-0 A mayor cantidad de registros, mayor exigencia sobre la estructura y optimización del sistema.
+        p.mb-0.text-center A mayor cantidad de registros, mayor exigencia sobre la estructura y optimización del sistema.
 
     p.mb-5 Una base de datos correctamente diseñada y administrada puede mantener un rendimiento óptimo incluso cuando gestiona miles o millones de registros, asegurando así continuidad operativa y eficiencia en los procesos organizacionales.
 
@@ -71,7 +71,7 @@
         .row.align-items-center
           .col-lg
             h4 Evitar búsquedas innecesariamente amplias
-            p.mb-0 Reduce el volumen de datos procesados.
+            p.mb-0.text-center Reduce el volumen de datos procesados.
           .col-lg-auto
             figure.d-none.d-xl-block
               img(src="@/assets/curso/tema7/8.jpg", alt="" style="max-width: 350px").m-auto
@@ -79,7 +79,7 @@
         .row.align-items-center
           .col-lg
             h4 Filtrar datos desde el inicio
-            p.mb-0 Limita los resultados a la información estrictamente necesaria.
+            p.mb-0.text-center Limita los resultados a la información estrictamente necesaria.
           .col-lg-auto
             figure.d-none.d-xl-block
               img(src="@/assets/curso/tema7/9.jpg", alt="" style="max-width: 350px").m-auto
@@ -87,7 +87,7 @@
         .row.align-items-center
           .col-lg
             h4 Usar índices adecuados
-            p.mb-0 Acelera la localización de registros relevantes.
+            p.mb-0.text-center Acelera la localización de registros relevantes.
           .col-lg-auto
             figure.d-none.d-xl-block
               img(src="@/assets/curso/tema7/10.jpg", alt="" style="max-width: 350px").m-auto
@@ -95,7 +95,7 @@
         .row.align-items-center
           .col-lg
             h4 Redactar consultas claras y específicas
-            p.mb-0 Disminuye ambigüedades y mejora la eficiencia de ejecución.
+            p.mb-0.text-center Disminuye ambigüedades y mejora la eficiencia de ejecución.
           .col-lg-auto
             figure.d-none.d-xl-block
               img(src="@/assets/curso/tema7/11.jpg", alt="" style="max-width: 350px").m-auto
@@ -152,31 +152,31 @@
                   .col-8
                     img(src='@/assets/curso/tema7/14.svg' style="max-width: 90px").m-auto
                 h4.mb-3.estilo-text Creación eficiente de índices
-                p.mb-0 Mejora la rapidez en la recuperación de información.
+                p.mb-0.text-center Mejora la rapidez en la recuperación de información.
               .tarjeta.color-acento-botones.p-4
                 .row.justify-content-center.mb-3
                   .col-8
                     img(src='@/assets/curso/tema7/15.svg' style="max-width: 90px").m-auto
                 h4.mb-3.estilo-text Mantenimiento de estadísticas internas
-                p.mb-0 Permite al motor tomar decisiones óptimas de ejecución.
+                p.mb-0.text-center Permite al motor tomar decisiones óptimas de ejecución.
               .tarjeta.color-acento-botones.p-4
                 .row.justify-content-center.mb-3
                   .col-8
                     img(src='@/assets/curso/tema7/16.svg' style="max-width: 90px").m-auto
                 h4.mb-3.estilo-text Optimización continua del motor
-                p.mb-0 Incluye la gestión de actualizaciones, parches o nuevas versiones.
+                p.mb-0.text-center Incluye la gestión de actualizaciones, parches o nuevas versiones.
               .tarjeta.color-acento-botones.p-4
                 .row.justify-content-center.mb-3
                   .col-8
                     img(src='@/assets/curso/tema7/17.svg' style="max-width: 90px").m-auto
                 h4.mb-3.estilo-text Uso de hardware adecuado
-                p.mb-0 Asegura capacidad suficiente para soportar la carga del sistema.
+                p.mb-0.text-center Asegura capacidad suficiente para soportar la carga del sistema.
               .tarjeta.color-acento-botones.p-4
                 .row.justify-content-center.mb-3
                   .col-8
                     img(src='@/assets/curso/tema7/18.svg' style="max-width: 90px").m-auto
                 h4.mb-3.estilo-text Eliminación de consultas redundantes
-                p.mb-0 Reduce consumo innecesario de recursos.
+                p.mb-0.text-center Reduce consumo innecesario de recursos.
 
         p.mb-0 Un control constante del tiempo de respuesta favorece la continuidad operativa y la satisfacción de los usuarios.
     

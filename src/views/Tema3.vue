@@ -24,7 +24,7 @@
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.1 ¿Qué es un SGBD?
 
-    p.mb-5 Un Sistema de Gestión de Bases de Datos es un software especializado que permite administrar la información almacenada en una o varias bases de datos. Actúa como intermediario entre los usuarios, las aplicaciones y los datos, garantizando que cada operación se realice conforme a reglas predefinidas. Entre sus funciones principales se encuentran las siguientes:
+    p.mb-5 Un Sistema de gestión de bases de datos es un <i>software</i> especializado que permite administrar la información almacenada en una o varias bases de datos. Actúa como intermediario entre los usuarios, las aplicaciones y los datos, garantizando que cada operación se realice conforme a reglas predefinidas. Entre sus funciones principales se encuentran las siguientes:
 
     .bg-carrusel
       .px-5
@@ -112,7 +112,7 @@
         .col-xl
           AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="fade-left")
             .row(titulo="Procesador de consultas").ajuste-cajaAcordion
-              p.mb-3 Interpreta las consultas enviadas por usuarios o aplicaciones y las convierte en un plan de ejecución. Es la puerta de entrada al SGBD. Interpreta SQL, valida la sintaxis, optimiza y genera el plan de ejecución. Aquí ocurren el parsing, la optimización y la ejecución lógica.
+              p.mb-3 Interpreta las consultas enviadas por usuarios o aplicaciones y las convierte en un plan de ejecución. Es la puerta de entrada al SGBD. Interpreta SQL, valida la sintaxis, optimiza y genera el plan de ejecución. Aquí ocurren el <i>parsing</i>, la optimización y la ejecución lógica.
             .row(titulo="Administrador de almacenamiento").ajuste-cajaAcordion
               p.mb-3 Define cómo se guardan los datos en el disco, cómo se asigna el espacio y cómo se organizan físicamente. Incluye archivos de datos, índices, buffers en memoria, páginas y bloques.
             .row(titulo="Mecanismo de transacciones").ajuste-cajaAcordion
@@ -122,7 +122,7 @@
             .row(titulo="Módulo de seguridad").ajuste-cajaAcordion
               p.mb-3 Administra usuarios, roles y políticas de acceso. Controla autenticación, permisos y define quién puede leer, escribir o modificar objetos. Aplica políticas de auditoría y protección de datos.
 
-    p.mb-5 En conjunto, estos módulos permiten que el motor de base de datos funcione con estabilidad, integridad y eficiencia, incluso en entornos donde múltiples usuarios realizan operaciones de manera simultánea. A continuación, se presenta un esquema simplificado de la arquitectura general de un motor de base de datos, en el que se identifican los módulos principales y su organización funcional dentro del SGBD.
+    p.mb-5 En conjunto, estos módulos permiten que el motor de base de datos funcione con <b>estabilidad, integridad y eficiencia</b>, incluso en entornos donde múltiples usuarios realizan operaciones de manera simultánea. A continuación, se presenta un esquema simplificado de la arquitectura general de un motor de base de datos, en el que se identifican los módulos principales y su organización funcional dentro del SGBD.
 
     .bg-2
       .px-5
@@ -420,31 +420,31 @@
         AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="zoom-in")
           .row(titulo="Lineamientos internos de organización de la información").ajuste-cajaAcordion
             .col-xl-8
-              p.mb-0 Definen criterios institucionales para clasificar, almacenar y administrar datos.
-            .col-xl-4.mb-3
+            p.mb-0 Definen criterios institucionales para clasificar, almacenar y administrar datos.
+            .col-xl-3.mb-3
               figure.d-none.d-xl-block
                 img(src='@/assets/curso/tema3/42.svg', alt='').m-auto 
           .row(titulo="Leyes de protección de datos personales").ajuste-cajaAcordion
             .col-xl-8
-              p.mb-0 Regulan el tratamiento de información personal y garantizan derechos de los titulares.
+            p.mb-0 Regulan el tratamiento de información personal y garantizan derechos de los titulares.
             .col-xl-4.mb-3
               figure.d-none.d-xl-block
                 img(src='@/assets/curso/tema3/43.svg', alt='').m-auto 
           .row(titulo="Estándares de calidad para documentación").ajuste-cajaAcordion
             .col-xl-8
-              p.mb-0 Aseguran coherencia, trazabilidad y control en los procesos documentales.
+            p.mb-0 Aseguran coherencia, trazabilidad y control en los procesos documentales.
             .col-xl-4.mb-3
               figure.d-none.d-xl-block
                 img(src='@/assets/curso/tema3/44.svg', alt='').m-auto 
           .row(titulo="Normas técnicas internacionales").ajuste-cajaAcordion
             .col-xl-8
-              p.mb-0 Establecen buenas prácticas reconocidas globalmente para la gestión de información.
+            p.mb-0 Establecen buenas prácticas reconocidas globalmente para la gestión de información.
             .col-xl-4.mb-3
               figure.d-none.d-xl-block
                 img(src='@/assets/curso/tema3/45.svg', alt='').m-auto  
           .row(titulo="Políticas de retención y seguridad").ajuste-cajaAcordion
             .col-xl-8
-              p.mb-0 Determinan tiempos de conservación y mecanismos de protección de los datos.
+            p.mb-0 Determinan tiempos de conservación y mecanismos de protección de los datos.
             .col-xl-4.mb-3
               figure.d-none.d-xl-block
                 img(src='@/assets/curso/tema3/46.svg', alt='').m-auto 
