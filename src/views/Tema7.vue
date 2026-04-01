@@ -32,7 +32,7 @@
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/tema7/4.svg' style="max-width: 90px").m-auto
-        h4.mb-3.estilo-text Capacidad del hardware
+        h4.mb-3.estilo-text  Capacidad del hardware
         p.mb-0.text-center Procesador, memoria y almacenamiento impactan directamente en la velocidad de operación.
       .tarjeta.color-acento-botones.p-4
         .row.justify-content-center.mb-3
