@@ -21,7 +21,7 @@ export default {
         'Fundamentos y conceptos para le gestión técnica y estratégica de los datos',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar la comprensión inicial del aprendiz respecto a los conceptos fundamentales de datos, información, bases de datos, sistemas de información, SGBD, integridad, seguridad y eficiencia de la gestión de bases de datos en las organizaciones.',
+        '<b> Objetivo:</b> evaluar la comprensión inicial del aprendiz respecto a los conceptos fundamentales de datos, información, bases de datos, sistemas de información, SGBD, integridad, seguridad y eficiencia de la gestión de bases de datos en las organizaciones.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',

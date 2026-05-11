@@ -142,7 +142,7 @@
                       li.mb-1
                         span.fa-li
                           i.fas.fa-arrow-alt-circle-right
-                        | La inscripción aumentó un 15% respecto al mes anterior, lo que indica un mayor interés en la oferta formativa.
+                        | La inscripción aumentó un 15 % respecto al mes anterior, lo que indica un mayor interés en la oferta formativa.
                       li.mb-0
                         span.fa-li
                           i.fas.fa-arrow-alt-circle-right

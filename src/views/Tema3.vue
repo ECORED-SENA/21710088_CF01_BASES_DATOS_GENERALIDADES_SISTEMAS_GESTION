@@ -24,7 +24,7 @@
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.1 ¿Qué es un SGBD?
 
-    p.mb-5 Un Sistema de gestión de bases de datos es un <i>software</i> especializado que permite administrar la información almacenada en una o varias bases de datos. Actúa como intermediario entre los usuarios, las aplicaciones y los datos, garantizando que cada operación se realice conforme a reglas predefinidas. Entre sus funciones principales se encuentran las siguientes:
+    p.mb-5 Un sistema de gestión de bases de datos es un <i>software</i> especializado que permite administrar la información almacenada en una o varias bases de datos. Actúa como intermediario entre los usuarios, las aplicaciones y los datos, garantizando que cada operación se realice conforme a reglas predefinidas. Entre sus funciones principales se encuentran las siguientes:
 
     .bg-carrusel
       .px-5
@@ -139,7 +139,7 @@
         #t_3_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
           h2 3.4 Ejemplos de SGBD utilizados en el sector productivo
 
-        p.mb-5 A continuación, se presenta un video sobre los Sistemas de gestión de bases de datos y su aplicación en el sector productivo, con el propósito de analizar sus características, ventajas y criterios de selección en distintos entornos organizacionales.
+        p.mb-5 A continuación, se presenta un video sobre los sistemas de gestión de bases de datos y su aplicación en el sector productivo, con el propósito de analizar sus características, ventajas y criterios de selección en distintos entornos organizacionales.
 
     figure(data-aos="zoom-in").mb-0
       .video.mb-1
