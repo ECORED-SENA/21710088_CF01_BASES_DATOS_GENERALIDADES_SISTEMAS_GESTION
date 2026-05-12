@@ -244,7 +244,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/21710088_CF1_DU.pdf',
+        download: 'downloads/21710088_CF01_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -371,7 +371,7 @@ export default {
         },
         {
           nombre: 'Olga Constanza Bermúdez Jaimes',
-          cargo: 'Responsable de Línea de Producción Huila',
+          cargo: 'Responsable de línea de producción Huila',
           centro: 'Dirección General',
         },
       ],
@@ -447,7 +447,7 @@ export default {
       ],
     },
     {
-      titulo: 'ALIDACIÓN RECURSO EDUCATIVO DIGITAL',
+      titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
           nombre: 'Javier Ricardo Ortiz Puentes',

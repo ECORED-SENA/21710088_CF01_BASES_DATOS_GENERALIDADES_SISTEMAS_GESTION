@@ -133,7 +133,7 @@
               h5 Figura 3.
               span Arquitectura lógica simplificada de un SGBD
             figure(data-aos="zoom-in")
-              img(src='@/assets/curso/tema3/14.svg', alt='Diagrama conceptual sobre la arquitectura interna de un sistema de gestión de bases de datos que integra procesador de consultas, administrador de transacciones, control de concurrencia, administrador de almacenamiento y gestor de seguridad y acceso. ').m-auto
+              img(src='@/assets/curso/tema3/14.svg', alt='Diagrama conceptual sobre la arquitectura interna de un sistema de gestión de bases de datos que integra procesador de consultas, administrador de transacciones, control de concurrencia, administrador de almacenamiento y gestor de seguridad y acceso.').m-auto
 
         Separador
         #t_3_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
