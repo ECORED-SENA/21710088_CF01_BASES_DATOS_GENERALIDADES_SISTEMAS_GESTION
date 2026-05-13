@@ -366,7 +366,7 @@ export default {
       autores: [
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Líder del Ecosistema',
+          cargo: 'Líder del ecosistema',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
