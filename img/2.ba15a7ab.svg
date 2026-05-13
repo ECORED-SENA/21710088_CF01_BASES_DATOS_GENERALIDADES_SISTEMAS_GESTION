@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="113.842" height="101.604" viewBox="0 0 113.842 101.604">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_412105" data-name="Rectangle 412105" width="88" height="83" transform="translate(282 1042)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_1205415" data-name="Group 1205415" transform="translate(-267.398 -1033.057)">
+    <g id="Group_1204649" data-name="Group 1204649" transform="translate(267.398 1033.057)">
+      <ellipse id="Ellipse_12530" data-name="Ellipse 12530" cx="28.658" cy="28.658" rx="28.658" ry="28.658" transform="translate(56.527 44.289)" fill="#ffc94a"/>
+      <ellipse id="Ellipse_12531" data-name="Ellipse 12531" cx="20.842" cy="20.842" rx="20.842" ry="20.842" fill="#ffc94a"/>
+    </g>
+    <g id="Mask_Group_1099434" data-name="Mask Group 1099434" clip-path="url(#clip-path)">
+      <g id="table_440629" transform="translate(282 1039.5)">
+        <rect id="Rectangle_412106" data-name="Rectangle 412106" width="10.989" height="4.121" transform="translate(63.23 76.995)" fill="#1595a3"/>
+        <rect id="Rectangle_412107" data-name="Rectangle 412107" width="85.162" height="14.967" transform="translate(1.419 6.311)" fill="#acf0f2"/>
+        <path id="Path_1256379" data-name="Path 1256379" d="M5.59,17.311v-11H1.443V21.279H86.557V17.311Z" fill="#1595a3"/>
+        <rect id="Rectangle_412108" data-name="Rectangle 412108" width="42.581" height="15.11" transform="translate(1.419 20.676)" fill="#fdb275"/>
+        <path id="Path_1256380" data-name="Path 1256380" d="M5.59,32.279v-11H1.443V36.426H44V32.279Z" fill="#fb9138"/>
+        <rect id="Rectangle_412109" data-name="Rectangle 412109" width="42.581" height="15.11" transform="translate(1.419 35.786)" fill="#fdb275"/>
+        <path id="Path_1256381" data-name="Path 1256381" d="M5.59,46.885V36.426H1.443V50.852H44V46.885Z" fill="#fb9138"/>
+        <rect id="Rectangle_412110" data-name="Rectangle 412110" width="42.581" height="15.826" transform="translate(1.419 50.896)" fill="#fdb275"/>
+        <path id="Path_1256382" data-name="Path 1256382" d="M5.59,62.574v-11H1.443V66.721H44V62.574Z" fill="#fb9138"/>
+        <rect id="Rectangle_412111" data-name="Rectangle 412111" width="42.581" height="15.826" transform="translate(44 50.896)" fill="#fdb275"/>
+        <path id="Path_1256383" data-name="Path 1256383" d="M48.148,62.574v-11H44V66.721H86.557V62.574Z" fill="#fb9138"/>
+        <rect id="Rectangle_412112" data-name="Rectangle 412112" width="42.581" height="15.831" transform="translate(44 35.786)" fill="#fdb275"/>
+        <path id="Path_1256384" data-name="Path 1256384" d="M48.148,47.426v-11H44V51.574H86.557V47.426Z" fill="#fb9138"/>
+        <rect id="Rectangle_412113" data-name="Rectangle 412113" width="42.581" height="15.75" transform="translate(44 20.676)" fill="#fdb275"/>
+        <path id="Path_1256385" data-name="Path 1256385" d="M48.148,32.279v-11H44V36.426H86.557V32.279Z" fill="#fb9138"/>
+        <path id="Path_1256386" data-name="Path 1256386" d="M72.845,76.994H64.6V35.786l4.121-5.494,4.121,5.494Z" fill="#00e6e8"/>
+        <path id="Path_1256387" data-name="Path 1256387" d="M67.351,76.994H64.6V35.786l4.121-5.494L67.351,37.16Z" fill="#acf0f2"/>
+        <rect id="Rectangle_412114" data-name="Rectangle 412114" width="8.242" height="4.793" transform="translate(64.604 72.201)" fill="#fff"/>
+        <path id="Path_1256388" data-name="Path 1256388" d="M68.725,28.038l-5.473,7.3V78.346H74.2V35.336Zm-2.768,47.6v-39.4l2.768-3.691,2.768,3.691V70.869H67.262v2.7h4.231v2.068H65.956Z"/>
+        <path id="Path_1256389" data-name="Path 1256389" d="M0,4.869V67.984H61.852v-2.7H45.262V52.248H61.857v-2.7H45.262V37.153H61.857v-2.7H45.262V22.721H85.3V35.164H75.557v2.7H85.3V50.311H75.557v2.7H85.3V65.278H75.557v2.7H88V4.869Zm42.557,60.41H2.7V52.248H42.557Zm0-15.735H2.7V37.153H42.557Zm0-15.1H2.7V22.721H42.557ZM2.7,20.016V7.574H85.3V20.016Z"/>
+        <path id="Path_1256390" data-name="Path 1256390" d="M63.23,80.426v2.683l10.988.022v-2.7Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
